@@ -554,8 +554,8 @@ video {
   display: none;
 }
 
-.absolute {
-  position: absolute;
+.relative {
+  position: relative;
 }
 
 .m-72 {
@@ -700,9 +700,9 @@ video {
   background-color: rgb(30 41 59 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#DCF0FB\] {
+.bg-\[\#edeeef\] {
   --tw-bg-opacity: 1;
-  background-color: rgb(220 240 251 / var(--tw-bg-opacity));
+  background-color: rgb(237 238 239 / var(--tw-bg-opacity));
 }
 
 .bg-white {
